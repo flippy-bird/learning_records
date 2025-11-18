@@ -73,3 +73,9 @@ __global__ void mathkernel2(float *c)
 
 
 
+
+
+### 2. 展开循环
+
+
+
